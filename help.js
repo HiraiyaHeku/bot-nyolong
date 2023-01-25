@@ -6,7 +6,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-━━━❲ 𝘼𝙉𝙂𝙂𝘼-𝘽𝙊𝙏 ━━━
+━━━❲ 𝙃𝙞𝙧𝙖𝘽𝙤𝙩 ━━━
 
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
  ID : @${sender.split('@')[0]}
@@ -726,12 +726,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 081548907132
+Number: 0895401071617
 A/N: __
 
-*Payment Dana*
-Number: 082180238576
-A/N: angga gat
+*Payment Ovo*
+Number: 0895401071617
+A/N: Hiraiya
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -742,17 +742,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Angga
+ • *Nama:* Hiraiya
  • *Umur:* 16 tahun
- • *Hoby:* Turu/tiktok
+ • *Hoby:* Turu
  • *Askot:* Palembang
- • *Konten:* Creator
+ • *Konten:* Gak Ada
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 081548907132
- • *Youtube:* Angga_Chenel
+ • *Whatsapp:* 0895401071617
+ • *Youtube:* -
  • *Github:* -
  `
 }
