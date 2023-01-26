@@ -1,10 +1,10 @@
 # Bot Hasil Nyolong Di YT
 
 Bahan :
-1.) 2 HP. 1 Untuk Scan, 1 Untuk Termux
-    (Boleh Menggunakan Ubuntu/Kali Linux)
-2.) Kuota
-3.) Kesabaran
+1.) 2 HP. 1 Untuk Scan, 1 Untuk Termux<br>
+    (Boleh Menggunakan Ubuntu/Kali Linux)<br>
+2.) Kuota<br>
+3.) Kesabaran<br>
 
 Cara Install :
 1.) Install Termux
